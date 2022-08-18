@@ -633,6 +633,18 @@ video {
   min-height: 32rem;
 }
 
+.min-h-\[28rem\]{
+  min-height: 28rem;
+}
+
+.min-h-\[2rem\]{
+  min-height: 2rem;
+}
+
+.min-h-\[29rem\]{
+  min-height: 29rem;
+}
+
 .max-w-4xl{
   max-width: 56rem;
 }
